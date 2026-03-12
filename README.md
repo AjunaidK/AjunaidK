@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AjunaidK
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning ML Algorithms
-- 💞️ I’m looking to collaborate on Machine Learning Projects
+- 👋 Hi, I’m @Junaid Khan
+- 👀 I’m interested in Machine Learning & Data Science
+- 🌱 I’m currently learning Data Science and Machine Learning
+- 💞️ I’m looking to collaborate on Data Science & Machine Learning Projects
 - 📫 How to reach me arbabjunaidkhan6@gmail.com
 
 <!---
